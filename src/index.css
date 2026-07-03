@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+@layer base {
+  body {
+    @apply font-sans antialiased text-slate-800 bg-[#f8fafc] selection:bg-indigo-600 selection:text-white;
+    background-image: radial-gradient(circle at 50% 0%, rgba(99, 102, 241, 0.06) 0%, rgba(241, 245, 249, 0.1) 50%, transparent 100%);
+    background-attachment: fixed;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(241, 245, 249, 0.5);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(99, 102, 241, 0.2);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(99, 102, 241, 0.45);
+}
+
+/* Glassmorphism utility styled as beautiful, clean Bento Grid blocks */
+.glass-panel {
+  @apply bg-white border border-slate-200/90 shadow-[0_1px_3px_rgba(0,0,0,0.02),0_1px_2px_rgba(0,0,0,0.01)] rounded-2xl transition-all duration-300;
+}
+
+.glass-panel-glow {
+  @apply bg-indigo-50/40 border border-indigo-100 shadow-[0_1px_5px_rgba(99,102,241,0.03)] rounded-2xl transition-all duration-300;
+}
+
+/* Animations */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}

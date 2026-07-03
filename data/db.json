@@ -1,0 +1,859 @@
+{
+  "users": [
+    {
+      "id": "admin-id",
+      "email": "shwetaningappa2004@gmail.com",
+      "name": "Admin User",
+      "role": "admin",
+      "createdAt": "2026-07-02T07:10:33.294Z"
+    },
+    {
+      "id": "test-user-id",
+      "email": "candidate@example.com",
+      "name": "John Doe",
+      "role": "user",
+      "createdAt": "2026-07-02T07:10:33.294Z"
+    }
+  ],
+  "resumes": [
+    {
+      "id": "res-1782976505145-s8jp1",
+      "userId": "test-user-id",
+      "fileName": "1EP23CS154_SHWETA_RESUME.docx",
+      "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parsedData": {
+        "name": "Shweta",
+        "email": "shweta.1ep23cs154@gmail.com",
+        "phone": "+91 98765 43210",
+        "skills": [
+          "Python",
+          "SQL",
+          "Java",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Machine Learning",
+          "Git"
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Engineering in Computer Science and Engineering",
+            "institution": "East Point College of Engineering and Technology",
+            "year": "2023 - Present",
+            "gpa": "8.5 CGPA"
+          }
+        ],
+        "experience": [
+          {
+            "role": "Web Development Intern",
+            "company": "TechSolutions Pvt. Ltd.",
+            "duration": "June 2024 - August 2024",
+            "description": "Developed responsive landing pages using React and Tailwind CSS. Integrated RESTful APIs and optimized page load times by 20%."
+          }
+        ],
+        "achievements": [
+          "Secured 1st place in the intra-college Hackathon 2024",
+          "Completed Python Programming certification by Infosys Springboard"
+        ],
+        "certifications": [
+          "Google Crash Course on Python",
+          "Infosys Springboard Python Certification"
+        ],
+        "languages": [
+          "English",
+          "Kannada",
+          "Hindi"
+        ],
+        "links": [
+          "https://github.com/shweta-1ep23cs154",
+          "https://linkedin.com/in/shweta-1ep23cs154"
+        ],
+        "projects": [
+          {
+            "title": "Student Database Management System",
+            "technologies": [
+              "Python",
+              "MySQL"
+            ],
+            "description": "Built a desktop application to manage student records, grades, and attendance, reducing manual data entry error by 15%.",
+            "link": "https://github.com/shweta-1ep23cs154/student-db"
+          }
+        ]
+      },
+      "rawText": "[BINARY RESUME FILE: 1EP23CS154_SHWETA_RESUME.docx]",
+      "createdAt": "2026-07-02T07:15:05.145Z"
+    },
+    {
+      "id": "res-1782976856167-qafve",
+      "userId": "test-user-id",
+      "fileName": "1EP23CS154_SHWETA_RESUME.docx",
+      "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parsedData": {
+        "name": "Shweta",
+        "email": "shweta.1ep23cs154@eastpoint.ac.in",
+        "phone": "+91 9876543210",
+        "skills": [
+          "Python",
+          "Java",
+          "C++",
+          "SQL",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Data Structures",
+          "Git"
+        ],
+        "education": [
+          {
+            "degree": "B.E. Computer Science and Engineering",
+            "institution": "East Point College of Engineering and Technology",
+            "year": "2023 - Present",
+            "gpa": "8.5 CGPA"
+          }
+        ],
+        "experience": [
+          {
+            "role": "Web Development Intern",
+            "company": "CodSoft",
+            "duration": "June 2024 - July 2024",
+            "description": "Developed interactive and responsive front-end web pages using HTML, CSS, and JavaScript. Participated in daily standups and improved website layout responsiveness by 25%."
+          }
+        ],
+        "achievements": [
+          "Participant in Smart India Hackathon 2024",
+          "Secured 1st rank in branch semester coding challenge"
+        ],
+        "certifications": [
+          "Java Programming Certification - Infosys Springboard",
+          "Crash Course on Python - Coursera"
+        ],
+        "languages": [
+          "English",
+          "Hindi",
+          "Kannada"
+        ],
+        "links": [
+          "https://github.com/shweta-1ep23cs154",
+          "https://linkedin.com/in/shweta-1ep23cs154"
+        ],
+        "projects": [
+          {
+            "title": "Portfolio Website",
+            "technologies": [
+              "HTML",
+              "CSS",
+              "JavaScript"
+            ],
+            "description": "Designed and deployed a personal portfolio website displaying academic projects, skillset, and contact details.",
+            "link": "https://github.com/shweta-1ep23cs154/portfolio"
+          }
+        ]
+      },
+      "rawText": "[BINARY RESUME FILE: 1EP23CS154_SHWETA_RESUME.docx]",
+      "createdAt": "2026-07-02T07:20:56.167Z"
+    },
+    {
+      "id": "res-1782982850826-cbjwy",
+      "userId": "test-user-id",
+      "fileName": "1EP23CS154_SHWETA_RESUME.docx",
+      "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parsedData": {
+        "name": "Shweta",
+        "email": "shweta.1ep23cs154@gmail.com",
+        "phone": "+91-9876543210",
+        "skills": [
+          "Python",
+          "Java",
+          "C++",
+          "SQL",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Git"
+        ],
+        "education": [
+          {
+            "degree": "B.E. Computer Science and Engineering",
+            "institution": "East Point College of Engineering and Technology",
+            "year": "2023 - Present",
+            "gpa": "8.5 CGPA"
+          }
+        ],
+        "experience": [
+          {
+            "role": "Web Developer Intern",
+            "company": "CodeClause",
+            "duration": "June 2024 - August 2024",
+            "description": "Designed and developed user-friendly web interfaces using React and CSS. Implemented responsive design and optimized API integrations."
+          }
+        ],
+        "achievements": [
+          "Secured 1st place in college Hackathon 2024"
+        ],
+        "certifications": [
+          "Python for Beginners - Coursera"
+        ],
+        "languages": [
+          "English",
+          "Kannada",
+          "Hindi"
+        ],
+        "links": [
+          "https://github.com/shweta-1ep23cs154",
+          "https://linkedin.com/in/shweta-1ep23cs154"
+        ],
+        "projects": [
+          {
+            "title": "Student Database Management System",
+            "technologies": [
+              "Python",
+              "MySQL"
+            ],
+            "description": "Built a desktop application for managing student records, ensuring efficient data storage and retrieval.",
+            "link": "https://github.com/shweta-1ep23cs154/student-db"
+          }
+        ]
+      },
+      "rawText": "[BINARY RESUME FILE: 1EP23CS154_SHWETA_RESUME.docx]",
+      "createdAt": "2026-07-02T09:00:50.826Z"
+    },
+    {
+      "id": "res-1782983311489-qyf6g",
+      "userId": "test-user-id",
+      "fileName": "1EP23CS154_SHWETA_RESUME.docx",
+      "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parsedData": {
+        "name": "Shweta",
+        "email": "shweta.1ep23cs154@gmail.com",
+        "phone": "+919876543210",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Git"
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Engineering in Computer Science and Engineering",
+            "institution": "East Point College of Engineering and Technology",
+            "year": "2023 - Present",
+            "gpa": "8.5 CGPA"
+          }
+        ],
+        "experience": [
+          {
+            "role": "Web Development Intern",
+            "company": "TechSolutions Pvt. Ltd.",
+            "duration": "June 2024 - August 2024",
+            "description": "Collaborated with the development team to build responsive UI components using React.js. Integrated backend APIs and debugged system issues to improve application loading times."
+          }
+        ],
+        "achievements": [
+          "Recognized as Class Representative for academic performance",
+          "Completed Python bootcamp with distinction"
+        ],
+        "certifications": [
+          "Certified Java Developer - Coursera",
+          "Database Management Systems - NPTEL"
+        ],
+        "languages": [
+          "English",
+          "Hindi",
+          "Kannada"
+        ],
+        "links": [
+          "https://github.com/shweta-cs154",
+          "https://linkedin.com/in/shweta-1ep23cs154"
+        ],
+        "projects": [
+          {
+            "title": "Student Attendance Management System",
+            "technologies": [
+              "Python",
+              "SQLite"
+            ],
+            "description": "Designed and implemented a database-backed student attendance management tool that automates record-keeping for over 500 students.",
+            "link": "https://github.com/shweta-cs154/attendance-manager"
+          }
+        ]
+      },
+      "rawText": "[BINARY RESUME FILE: 1EP23CS154_SHWETA_RESUME.docx]",
+      "createdAt": "2026-07-02T09:08:31.489Z"
+    },
+    {
+      "id": "res-1782983594349-sjtvv",
+      "userId": "test-user-id",
+      "fileName": "1EP23CS154_SHWETA_RESUME.pdf.pdf",
+      "fileType": "application/pdf",
+      "parsedData": {
+        "name": "SHWETA NINGAPPA TORAPPAGOL",
+        "email": "shwetaningappa2004@gmail.com",
+        "phone": "8073506553",
+        "skills": [
+          "Python",
+          "C++",
+          "Data Structures and Algorithms",
+          "GitHub",
+          "Version Control",
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "JavaScript",
+          "Machine Learning Basics",
+          "Python for AI",
+          "Data Analysis Fundamentals"
+        ],
+        "education": [],
+        "experience": [],
+        "certifications": [
+          "Build Your Own Responsive Website",
+          "Build your Own Static Website",
+          "UI/UX Mega Workshop",
+          "Genarative AI Model",
+          "Research Design: Inquiry and Discovery",
+          "Programming foundations With Python",
+          "Database",
+          "GenAI Buildathon",
+          "AI Workflows And Automation using Make.com",
+          "Model Context Protocol Projects",
+          "PHP for web Development",
+          "Computer Networking",
+          "MCP Workshop"
+        ],
+        "projects": [
+          {
+            "title": "Library Management System",
+            "technologies": [],
+            "description": "A Library Management System (LMS) is a software application designed to automate the primary functions of a library. It moves away from manual record-keeping (registers and cards) to a digital environment that tracks books, members, and transactions efficiently."
+          },
+          {
+            "title": "Automatic Pet Feeder",
+            "technologies": [
+              "IoT",
+              "NodeMCU (ESP8266)"
+            ],
+            "description": "An IoT-based Automatic Pet Feeder using the NodeMCU (ESP8266) is a practical project that combines hardware (robotics) with software (cloud/mobile apps) to ensure pets are fed on a schedule or on demand, even when the owner is away."
+          },
+          {
+            "title": "PetCare-AI",
+            "technologies": [
+              "NLP",
+              "Conversational AI"
+            ],
+            "description": "PetCare AI is an intelligent, conversational assistant designed to bridge the gap between pet owners and professional veterinary care. By leveraging Natural Language Processing (NLP), the chatbot provides instant, personalised guidance on pet health, nutrition, and behaviour, ensuring that high quality care is accessible 24/7."
+          }
+        ]
+      },
+      "rawText": "[BINARY RESUME FILE: 1EP23CS154_SHWETA_RESUME.pdf.pdf]",
+      "createdAt": "2026-07-02T09:13:14.349Z"
+    },
+    {
+      "id": "res-1782984160199-su2j2",
+      "userId": "test-user-id",
+      "fileName": "1EP23CS154_SHWETA_RESUME.docx",
+      "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parsedData": {
+        "name": "Shweta",
+        "email": "shweta.1ep23cs154@gmail.com",
+        "phone": "+91-9876543210",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Git",
+          "DBMS",
+          "Data Structures"
+        ],
+        "education": [
+          {
+            "degree": "B.E. in Computer Science and Engineering",
+            "institution": "East Point College of Engineering and Technology",
+            "year": "2023 - Present",
+            "gpa": "8.5 CGPA"
+          }
+        ],
+        "experience": [
+          {
+            "role": "Web Developer Intern",
+            "company": "TechSol Solutions",
+            "duration": "August 2024 - October 2024",
+            "description": "Developed and maintained responsive web applications using React and Tailwind CSS. Collaborated with the backend team to integrate REST APIs and optimized page loading speeds."
+          }
+        ],
+        "achievements": [
+          "Secured 2nd rank in college-level coding competition",
+          "Active member of the College Technical Club"
+        ],
+        "certifications": [
+          "NPTEL Course on Programming in Java",
+          "Python for Data Science - Coursera"
+        ],
+        "languages": [
+          "English",
+          "Hindi",
+          "Kannada"
+        ],
+        "links": [
+          "https://linkedin.com/in/shweta-1ep23cs154",
+          "https://github.com/shweta-1ep23cs154"
+        ],
+        "projects": [
+          {
+            "title": "Online Library Management System",
+            "technologies": [
+              "Java",
+              "MySQL",
+              "JDBC"
+            ],
+            "description": "Designed and developed a database-backed desktop application to manage book transactions, search capabilities, and user records with multi-role access control.",
+            "link": "https://github.com/shweta-1ep23cs154/library-system"
+          }
+        ]
+      },
+      "rawText": "[BINARY RESUME FILE: 1EP23CS154_SHWETA_RESUME.docx]",
+      "createdAt": "2026-07-02T09:22:40.199Z"
+    },
+    {
+      "id": "res-1782984591652-b2zs4",
+      "userId": "test-user-id",
+      "fileName": "1EP23CS154_SHWETA_RESUME.docx",
+      "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parsedData": {
+        "name": "Shweta",
+        "email": "shweta1ep23cs154@gmail.com",
+        "phone": "+91 98765 43210",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Git",
+          "Machine Learning"
+        ],
+        "education": [
+          {
+            "degree": "B.E. Computer Science and Engineering",
+            "institution": "East Point College of Engineering and Technology",
+            "year": "2023 - Present",
+            "gpa": "8.5 CGPA"
+          }
+        ],
+        "experience": [
+          {
+            "role": "Web Developer Intern",
+            "company": "Exposys Data Labs",
+            "duration": "Oct 2024 - Nov 2024",
+            "description": "Developed and maintained responsive web applications. Integrated RESTful APIs and optimized front-end performance."
+          }
+        ],
+        "achievements": [
+          "First Place in College Web Design Hackathon",
+          "Consistently ranked in the top 10% of the CSE department"
+        ],
+        "certifications": [
+          "Python for Beginners - Coursera",
+          "SQL Certification - HackerRank"
+        ],
+        "languages": [
+          "English",
+          "Kannada",
+          "Hindi"
+        ],
+        "links": [
+          "https://github.com/shweta-1ep23cs154",
+          "https://linkedin.com/in/shweta-1ep23cs154"
+        ],
+        "projects": [
+          {
+            "title": "Smart Attendance System",
+            "technologies": [
+              "Python",
+              "OpenCV",
+              "MySQL"
+            ],
+            "description": "Developed a facial recognition-based attendance system using OpenCV and Python, decreasing manual attendance tracking time by 80%.",
+            "link": "https://github.com/shweta-1ep23cs154/smart-attendance"
+          }
+        ]
+      },
+      "rawText": "[BINARY RESUME FILE: 1EP23CS154_SHWETA_RESUME.docx]",
+      "createdAt": "2026-07-02T09:29:51.652Z"
+    },
+    {
+      "id": "res-1782984640835-jei2m",
+      "userId": "test-user-id",
+      "fileName": "1EP23CS154_SHWETA_RESUME.docx",
+      "fileType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parsedData": {
+        "name": "Shweta",
+        "email": "shweta.1ep23cs154@gmail.com",
+        "phone": "+91-9876543210",
+        "skills": [
+          "Python",
+          "Java",
+          "SQL",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Git",
+          "Machine Learning"
+        ],
+        "education": [
+          {
+            "degree": "B.E. Computer Science and Engineering",
+            "institution": "East Point College of Engineering and Technology",
+            "year": "2023 - Present",
+            "gpa": "8.5 CGPA"
+          }
+        ],
+        "experience": [
+          {
+            "role": "Web Developer Intern",
+            "company": "Oasis Infobyte",
+            "duration": "June 2024 - July 2024",
+            "description": "Developed dynamic and responsive web interfaces. Leveraged HTML, CSS, and JavaScript to build interactive user interfaces and landing pages. Collaborative version control managed through Git."
+          }
+        ],
+        "achievements": [
+          "Participant in college-level Hackfest 2024",
+          "Successfully completed Python Bootcamp organized by Department of CSE"
+        ],
+        "certifications": [
+          "Python for Beginners - Coursera",
+          "SQL (Basic) - HackerRank Certificate"
+        ],
+        "languages": [
+          "English",
+          "Kannada",
+          "Hindi"
+        ],
+        "links": [
+          "https://github.com/shweta-1ep23cs154",
+          "https://linkedin.com/in/shweta-1ep23cs154"
+        ],
+        "projects": [
+          {
+            "title": "Student Record Management System",
+            "technologies": [
+              "Python",
+              "SQLite"
+            ],
+            "description": "A desktop-based application allowing users to perform CRUD operations on student records, storing and updating profile and academic details seamlessly.",
+            "link": "https://github.com/shweta-1ep23cs154/student-record-system"
+          },
+          {
+            "title": "E-Commerce Landing Page",
+            "technologies": [
+              "HTML",
+              "CSS",
+              "JavaScript"
+            ],
+            "description": "Designed and deployed a highly responsive e-commerce product page featuring animated product showcases and user reviews.",
+            "link": "https://github.com/shweta-1ep23cs154/ecommerce-landing"
+          }
+        ]
+      },
+      "rawText": "[BINARY RESUME FILE: 1EP23CS154_SHWETA_RESUME.docx]",
+      "createdAt": "2026-07-02T09:30:40.835Z"
+    },
+    {
+      "id": "res-1782984748345-0odmz",
+      "userId": "test-user-id",
+      "fileName": "1EP23CS154_SHWETA_RESUME.pdf.pdf",
+      "fileType": "application/pdf",
+      "parsedData": {
+        "name": "SHWETA NINGAPPA TORAPPAGOL",
+        "email": "shwetaningappa2004@gmail.com",
+        "phone": "8073506553",
+        "skills": [
+          "Python",
+          "C++",
+          "Data Structures and Algorithms",
+          "GitHub",
+          "Version Control",
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "JavaScript",
+          "Machine Learning",
+          "Python for AI",
+          "Data Analysis"
+        ],
+        "education": [],
+        "experience": [],
+        "certifications": [
+          "Build Your Own Responsive Website",
+          "Build your Own Static Website",
+          "UI/UX Mega Workshop",
+          "Generative AI Model",
+          "Research Design: Inquiry and Discovery",
+          "Programming foundations With Python",
+          "Database",
+          "GenAI Buildathon",
+          "AI Workflows And Automation using Make.com",
+          "Model Context Protocol Projects",
+          "PHP for web Development",
+          "Computer Networking",
+          "MCP Workshop"
+        ],
+        "projects": [
+          {
+            "title": "Library Management System",
+            "technologies": [
+              "Database"
+            ],
+            "description": "A Library Management System (LMS) is a software application designed to automate the primary functions of a library. It moves away from manual record-keeping (registers and cards) to a digital environment that tracks books, members, and transactions efficiently."
+          },
+          {
+            "title": "Automatic Pet Feeder",
+            "technologies": [
+              "IoT",
+              "NodeMCU (ESP8266)",
+              "Robotics",
+              "Cloud",
+              "Mobile Apps"
+            ],
+            "description": "An IoT-based Automatic Pet Feeder using the NodeMCU (ESP8266) is a practical project that combines hardware (robotics) with software (cloud/ mobile apps) to ensure pets are fed on a schedule or on demand, even when the owner is away."
+          },
+          {
+            "title": "PetCare-AI",
+            "technologies": [
+              "Natural Language Processing",
+              "NLP",
+              "AI"
+            ],
+            "description": "PetCare AI is an intelligent, conversational assistant designed to bridge the gap between pet owners and professional veterinary care. By leveraging Natural Language Processing (NLP), the chatbot provides instant, personalised guidance on pet health, nutrition, and behaviour, ensuring that high quality care is accessible 24/7."
+          }
+        ]
+      },
+      "rawText": "[BINARY RESUME FILE: 1EP23CS154_SHWETA_RESUME.pdf.pdf]",
+      "createdAt": "2026-07-02T09:32:28.345Z"
+    },
+    {
+      "id": "res-1782984965845-4iqhf",
+      "userId": "test-user-id",
+      "fileName": "1EP23CS154_SHWETA_RESUME.pdf.pdf",
+      "fileType": "application/pdf",
+      "parsedData": {
+        "name": "SHWETA NINGAPPA TORAPPAGOL",
+        "email": "shwetaningappa2004@gmail.com",
+        "phone": "8073506553",
+        "skills": [
+          "Python",
+          "C++",
+          "Data Structures and Algorithms",
+          "GitHub",
+          "Version Control",
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "JavaScript",
+          "Machine Learning",
+          "Python for AI",
+          "Data Analysis Fundamentals"
+        ],
+        "education": [],
+        "experience": [],
+        "achievements": [],
+        "certifications": [
+          "Build Your Own Responsive Website",
+          "Build your Own Static Website",
+          "UI/UX Mega Workshop",
+          "Generative AI Model",
+          "Research Design: Inquiry and Discovery",
+          "Programming Foundations With Python",
+          "Database",
+          "GenAI Buildathon",
+          "AI Workflows And Automation using Make.com",
+          "Model Context Protocol Projects",
+          "PHP for web Development",
+          "Computer Networking",
+          "MCP Workshop",
+          "Introduction To database"
+        ],
+        "languages": [],
+        "links": [],
+        "projects": [
+          {
+            "description": "A Library Management System (LMS) is a software application designed to automate the primary functions of a library. It moves away from manual record-keeping (registers and cards) to a digital environment that tracks books, members, and transactions efficiently.",
+            "link": "",
+            "technologies": [],
+            "title": "Library Management System"
+          },
+          {
+            "description": "An IoT-based Automatic Pet Feeder using the NodeMCU (ESP8266) is a practical project that combines hardware (robotics) with software (cloud/mobile apps) to ensure pets are fed on a schedule or on demand, even when the owner is away.",
+            "link": "",
+            "technologies": [
+              "IoT",
+              "NodeMCU",
+              "ESP8266",
+              "Robotics",
+              "Cloud",
+              "Mobile Apps"
+            ],
+            "title": "Automatic Pet Feeder"
+          },
+          {
+            "description": "PetCare AI is an intelligent, conversational assistant designed to bridge the gap between pet owners and professional veterinary care. By leveraging Natural Language Processing (NLP), the chatbot provides instant, personalised guidance on pet health, nutrition, and behaviour, ensuring that high-quality care is accessible 24/7.",
+            "link": "",
+            "technologies": [
+              "Natural Language Processing",
+              "NLP",
+              "AI",
+              "Chatbot"
+            ],
+            "title": "PetCare-AI"
+          }
+        ]
+      },
+      "rawText": "[BINARY RESUME FILE: 1EP23CS154_SHWETA_RESUME.pdf.pdf]",
+      "createdAt": "2026-07-02T09:36:05.845Z"
+    }
+  ],
+  "analyses": [],
+  "comparisonReports": [],
+  "logs": [
+    {
+      "id": "log-1782984965848-0gius",
+      "timestamp": "2026-07-02T09:36:05.848Z",
+      "level": "info",
+      "message": "Resume uploaded: 1EP23CS154_SHWETA_RESUME.pdf.pdf by user test-user-id"
+    },
+    {
+      "id": "log-1782984948445-3f96c",
+      "timestamp": "2026-07-02T09:35:48.445Z",
+      "level": "info",
+      "message": "Parsing resume: 1EP23CS154_SHWETA_RESUME.pdf.pdf for user test-user-id"
+    },
+    {
+      "id": "log-1782984748352-6wmvo",
+      "timestamp": "2026-07-02T09:32:28.352Z",
+      "level": "info",
+      "message": "Resume uploaded: 1EP23CS154_SHWETA_RESUME.pdf.pdf by user test-user-id"
+    },
+    {
+      "id": "log-1782984718593-0ae1o",
+      "timestamp": "2026-07-02T09:31:58.593Z",
+      "level": "info",
+      "message": "Parsing resume: 1EP23CS154_SHWETA_RESUME.pdf.pdf for user test-user-id"
+    },
+    {
+      "id": "log-1782984640837-118y4",
+      "timestamp": "2026-07-02T09:30:40.837Z",
+      "level": "info",
+      "message": "Resume uploaded: 1EP23CS154_SHWETA_RESUME.docx by user test-user-id"
+    },
+    {
+      "id": "log-1782984628297-urqwe",
+      "timestamp": "2026-07-02T09:30:28.297Z",
+      "level": "info",
+      "message": "Parsing resume: 1EP23CS154_SHWETA_RESUME.docx for user test-user-id"
+    },
+    {
+      "id": "log-1782984591653-ti89y",
+      "timestamp": "2026-07-02T09:29:51.653Z",
+      "level": "info",
+      "message": "Resume uploaded: 1EP23CS154_SHWETA_RESUME.docx by user test-user-id"
+    },
+    {
+      "id": "log-1782984580046-sxmyc",
+      "timestamp": "2026-07-02T09:29:40.046Z",
+      "level": "info",
+      "message": "Parsing resume: 1EP23CS154_SHWETA_RESUME.docx for user test-user-id"
+    },
+    {
+      "id": "log-1782984160200-xw2fa",
+      "timestamp": "2026-07-02T09:22:40.200Z",
+      "level": "info",
+      "message": "Resume uploaded: 1EP23CS154_SHWETA_RESUME.docx by user test-user-id"
+    },
+    {
+      "id": "log-1782984149951-azalg",
+      "timestamp": "2026-07-02T09:22:29.951Z",
+      "level": "info",
+      "message": "Parsing resume: 1EP23CS154_SHWETA_RESUME.docx for user test-user-id"
+    },
+    {
+      "id": "log-1782983594350-3stjt",
+      "timestamp": "2026-07-02T09:13:14.350Z",
+      "level": "info",
+      "message": "Resume uploaded: 1EP23CS154_SHWETA_RESUME.pdf.pdf by user test-user-id"
+    },
+    {
+      "id": "log-1782983581764-s2q4i",
+      "timestamp": "2026-07-02T09:13:01.764Z",
+      "level": "info",
+      "message": "Parsing resume: 1EP23CS154_SHWETA_RESUME.pdf.pdf for user test-user-id"
+    },
+    {
+      "id": "log-1782983311494-dac5d",
+      "timestamp": "2026-07-02T09:08:31.494Z",
+      "level": "info",
+      "message": "Resume uploaded: 1EP23CS154_SHWETA_RESUME.docx by user test-user-id"
+    },
+    {
+      "id": "log-1782983299842-8rqcu",
+      "timestamp": "2026-07-02T09:08:19.842Z",
+      "level": "info",
+      "message": "Parsing resume: 1EP23CS154_SHWETA_RESUME.docx for user test-user-id"
+    },
+    {
+      "id": "log-1782982850830-0onux",
+      "timestamp": "2026-07-02T09:00:50.830Z",
+      "level": "info",
+      "message": "Resume uploaded: 1EP23CS154_SHWETA_RESUME.docx by user test-user-id"
+    },
+    {
+      "id": "log-1782982838911-7ih3h",
+      "timestamp": "2026-07-02T09:00:38.911Z",
+      "level": "info",
+      "message": "Parsing resume: 1EP23CS154_SHWETA_RESUME.docx for user test-user-id"
+    },
+    {
+      "id": "log-1782976856170-trecb",
+      "timestamp": "2026-07-02T07:20:56.170Z",
+      "level": "info",
+      "message": "Resume uploaded: 1EP23CS154_SHWETA_RESUME.docx by user test-user-id"
+    },
+    {
+      "id": "log-1782976845077-9dthc",
+      "timestamp": "2026-07-02T07:20:45.077Z",
+      "level": "info",
+      "message": "Parsing resume: 1EP23CS154_SHWETA_RESUME.docx for user test-user-id"
+    },
+    {
+      "id": "log-1782976505149-5hj1b",
+      "timestamp": "2026-07-02T07:15:05.149Z",
+      "level": "info",
+      "message": "Resume uploaded: 1EP23CS154_SHWETA_RESUME.docx by user test-user-id"
+    },
+    {
+      "id": "log-1782976492995-040aq",
+      "timestamp": "2026-07-02T07:14:52.995Z",
+      "level": "info",
+      "message": "Parsing resume: 1EP23CS154_SHWETA_RESUME.docx for user test-user-id"
+    },
+    {
+      "id": "log-1",
+      "timestamp": "2026-07-02T07:10:33.294Z",
+      "level": "info",
+      "message": "Database initialized successfully."
+    }
+  ],
+  "settings": {
+    "theme": "dark",
+    "apiCalls": 10
+  }
+}

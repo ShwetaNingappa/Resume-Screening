@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Screening & ATS Analyzer",
+  "description": "An intelligent, full-stack AI-powered resume screening and ATS analysis platform designed for recruiters and job seekers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
